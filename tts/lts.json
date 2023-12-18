@@ -59,8 +59,6 @@
     {
       "name": "Match1",
       "image": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_625269001702746525.png",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "true",
       "country": "qatar",
@@ -92,8 +90,6 @@
     {
       "name": "Match2",
       "image": "https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_207903001702545713.png",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "true",
       "country": "qatar",
@@ -125,8 +121,6 @@
     {
       "name": "Match3",
       "image": "https://images.toffeelive.com/images/program/130747/logo/240x240/mobile_logo_052480001702746654.png",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "true",
       "country": "qatar",
@@ -158,8 +152,6 @@
     {
       "name": "Astro Cricket",
       "image": "https://i.ibb.co/b18WcG6/astro-criciket.png",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "Malaysia",
@@ -215,8 +207,6 @@
     {
       "name": "STAR SPORTS",
       "image": "https://i.ibb.co/QNYdXYZ/star-sports-hd.png",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "true",
       "country": "india",
@@ -459,8 +449,6 @@
     {
       "name": "Sports18 1 HD",
       "image": "https://i.ibb.co/gtxQHZb/sports18.png",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "india",
@@ -478,8 +466,6 @@
     {
       "name": "Viaplay",
       "image": "https://i.ibb.co/ss8tdrs/viaplayer.png",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "india",
@@ -661,8 +647,6 @@
     {
       "name": "BeIN Sports1",
       "image": "https://i.ibb.co/K7wj7z1/bein-sports-hd1.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -680,8 +664,6 @@
     {
       "name": "BeIN Sports2",
       "image": "https://i.ibb.co/MnT2DS3/bein-sports-hd2.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -699,8 +681,6 @@
     {
       "name": "BeIN Sports3",
       "image": "https://i.ibb.co/6vcv44H/bein-sports-hd3.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -718,8 +698,6 @@
     {
       "name": "BeIN Sports4",
       "image": "https://i.ibb.co/BL2Zcf6/bein-sports-hd4.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -737,8 +715,6 @@
     {
       "name": "BeIN Sports5",
       "image": "https://i.ibb.co/KwHxw32/be-IN-Sports-5.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -756,8 +732,6 @@
     {
       "name": "BeIN Sports6",
       "image": "https://i.ibb.co/hWKg0cD/be-IN-Sports-6.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -775,8 +749,6 @@
     {
       "name": "BeIN Sports7",
       "image": "https://i.ibb.co/pX2bVXK/be-IN-Sports-7.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -794,8 +766,6 @@
     {
       "name": "BeIN Sports8",
       "image": "https://i.ibb.co/Tmc0kj6/be-IN-Sports-8.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -813,8 +783,6 @@
     {
       "name": "BeIN Sports9",
       "image": "https://i.ibb.co/N7hHkxg/be-IN-Sports-9.png",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "qatar",
@@ -832,8 +800,6 @@
     {
       "name": "BeIN Sports Max1",
       "image": "https://i.ibb.co/kSXzTKM/be-IN-Sports-Max-1.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -851,8 +817,6 @@
     {
       "name": "BeIN Sports Max2",
       "image": "https://i.ibb.co/RNxZh6c/be-IN-Sports-Max-2.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -870,8 +834,6 @@
     {
       "name": "BeIN Sports Max3",
       "image": "https://i.ibb.co/x87v2dC/be-IN-Sports-Max-3.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -889,8 +851,6 @@
     {
       "name": "BeIN Sports Max4",
       "image": "https://i.ibb.co/NK9dW3n/be-IN-Sports-Max-4.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -908,8 +868,6 @@
     {
       "name": "BeIN Sports Max5",
       "image": "https://i.ibb.co/WVkL67g/be-IN-Sports-Max-5.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -927,8 +885,6 @@
     {
       "name": "BeIN Sports Max6",
       "image": "https://i.ibb.co/Jss3tQf/be-IN-Sports-Max-7.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -946,8 +902,6 @@
     {
       "name": "BeIN Sports Max7",
       "image": "https://i.ibb.co/Jss3tQf/be-IN-Sports-Max-7.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -965,8 +919,6 @@
     {
       "name": "BeIN Sports Max8",
       "image": "https://i.ibb.co/zx1kzNS/be-IN-Sports-Max-8.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -984,8 +936,6 @@
     {
       "name": "BeIN Sports Max9",
       "image": "https://i.ibb.co/0Dv239y/be-IN-Sports-Max-9.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -1003,8 +953,6 @@
     {
       "name": "BeIN Sports Max10",
       "image": "https://i.ibb.co/5ct2jn8/be-IN-Sports-Max-10.jpg",
-      "host1": "",
-      "server1": "",
       "category": "Sports",
       "hot": "",
       "country": "france",
@@ -1114,8 +1062,6 @@
     {
       "name": "SONY SPORTS TEN 3 HD",
       "image": "https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1133,8 +1079,6 @@
     {
       "name": "SONY SPORTS TEN 1",
       "image": "https://images.toffeelive.com/images/program/49/logo/240x240/mobile_logo_559887001666781361.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1152,8 +1096,6 @@
     {
       "name": "SONY SPORTS TEN 2",
       "image": "https://images.toffeelive.com/images/program/50/logo/240x240/mobile_logo_832280001666781441.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1171,8 +1113,6 @@
     {
       "name": "SONY SPORTS TEN 3",
       "image": "https://images.toffeelive.com/images/program/51/logo/240x240/mobile_logo_066851001666781605.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1190,8 +1130,6 @@
     {
       "name": "SONY SPORTS TEN 5",
       "image": "https://images.toffeelive.com/images/program/351/logo/240x240/mobile_logo_027801001666782321.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1209,8 +1147,6 @@
     {
       "name": "SONY MAX HD",
       "image": "https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1228,8 +1164,6 @@
     {
       "name": "SONY MAX",
       "image": "https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1247,8 +1181,6 @@
     {
       "name": "SONY ENTERTAINMENT TELEVISION HD",
       "image": "https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1266,8 +1198,6 @@
     {
       "name": "SONY ENTERTAINMENT TELEVISION",
       "image": "https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1285,8 +1215,6 @@
     {
       "name": "SONY SAB HD",
       "image": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1304,8 +1232,6 @@
     {
       "name": "SONY SAB",
       "image": "https://images.toffeelive.com/images/program/342/logo/240x240/mobile_logo_512950001666785776.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1323,8 +1249,6 @@
     {
       "name": "SONY MAX 2",
       "image": "https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1342,8 +1266,6 @@
     {
       "name": "SONY WAH",
       "image": "https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1361,8 +1283,6 @@
     {
       "name": "Sony Pal",
       "image": "https://images.toffeelive.com/images/program/2421/logo/240x240/mobile_logo_799518001666784496.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -1657,8 +1577,6 @@
     {
       "name": "SONY BBC EARTH HD",
       "image": "https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -1728,8 +1646,6 @@
     {
       "name": "Nick Bangla",
       "image": "https://i.ibb.co/pZzhTP8/nick-bangla.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "",
       "country": "india",
@@ -1792,8 +1708,6 @@
     {
       "name": "NGC VIP",
       "image": "https://images.toffeelive.com/images/program/18840/logo/240x240/mobile_logo_024343001683805110.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "",
@@ -1811,8 +1725,6 @@
     {
       "name": "Discovery HD",
       "image": "https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "",
@@ -1837,8 +1749,6 @@
     {
       "name": "Love Nature",
       "image": "https://i.ibb.co/QCWqGtN/love-nature.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "us",
@@ -1856,8 +1766,6 @@
     {
       "name": "NGC Wild VIP",
       "image": "https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "us",
@@ -1908,8 +1816,6 @@
     {
       "name": "Discovery Science",
       "image": "https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "us",
@@ -1934,8 +1840,6 @@
     {
       "name": "Fox Life VIP",
       "image": "https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "us",
@@ -1953,8 +1857,6 @@
     {
       "name": "Discovery Asia",
       "image": "https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "us",
@@ -1972,8 +1874,6 @@
     {
       "name": "Discovery Turbo",
       "image": "https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "",
@@ -1998,8 +1898,6 @@
     {
       "name": "Investigation Discovery HD",
       "image": "https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "",
@@ -2024,8 +1922,6 @@
     {
       "name": "Investigation Discovery",
       "image": "https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "",
@@ -2095,8 +1991,6 @@
     {
       "name": "Zee Bangla",
       "image": "https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -2916,8 +2810,6 @@
     {
       "name": "Colors_HD Hindi",
       "image": "https://images.toffeelive.com/images/program/2425/logo/240x240/mobile_logo_844782001655891780.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3048,8 +2940,6 @@
     {
       "name": "Enter 10 Bangla",
       "image": "https://i.ibb.co/fS4vnng/enter-10-bangla.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3190,8 +3080,6 @@
     {
       "name": "দেশি টিভি",
       "image": "https://i.ibb.co/mTd7kp5/deshi-tv.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "bd",
@@ -3314,8 +3202,6 @@
     {
       "name": "Disney",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/220px-2014_Disney_Channel_logo.svg.png",
-      "host1": "",
-      "server1": "",
       "category": "",
       "hot": "",
       "country": "us",
@@ -3352,8 +3238,6 @@
     {
       "name": "Deepto TV",
       "image": "https://i.ibb.co/G3hCZL0/deepto-tv.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "",
       "country": "bd",
@@ -3371,8 +3255,6 @@
     {
       "name": "TOFFEE Live 1 VIP",
       "image": "https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_724275001701244521.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3390,8 +3272,6 @@
     {
       "name": "Star Jalsha VIP",
       "image": "https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "yes",
       "country": "india",
@@ -3409,8 +3289,6 @@
     {
       "name": "SONY SPORTS TEN 2 HD",
       "image": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3428,8 +3306,6 @@
     {
       "name": "SONY SPORTS TEN 5 HD",
       "image": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3447,8 +3323,6 @@
     {
       "name": "SONY SPORTS TEN 1 HD",
       "image": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3466,8 +3340,6 @@
     {
       "name": "TOFFEE Sports VIP",
       "image": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_132014001696928877.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3485,8 +3357,6 @@
     {
       "name": "Euro Sport HD",
       "image": "https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3504,8 +3374,6 @@
     {
       "name": "Euro Sport",
       "image": "https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3523,8 +3391,6 @@
     {
       "name": "Independent TV",
       "image": "https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png",
-      "host1": "",
-      "server1": "",
       "category": "news",
       "hot": "",
       "country": "bd",
@@ -3542,8 +3408,6 @@
     {
       "name": "RTV",
       "image": "https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "",
@@ -3561,8 +3425,6 @@
     {
       "name": "Asian TV HD",
       "image": "https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3580,8 +3442,6 @@
     {
       "name": "Nagorik TV",
       "image": "https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3599,8 +3459,6 @@
     {
       "name": "TOFFEE Dramas",
       "image": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3618,8 +3476,6 @@
     {
       "name": "Rajdhani TV",
       "image": "https://images.toffeelive.com/images/program/177468/logo/240x240/mobile_logo_382457001694586201.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3637,8 +3493,6 @@
     {
       "name": "Star Gold VIP",
       "image": "https://images.toffeelive.com/images/program/18835/logo/240x240/mobile_logo_482266001683805730.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3656,8 +3510,6 @@
     {
       "name": "Star Plus VIP",
       "image": "https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3675,8 +3527,6 @@
     {
       "name": "Star Bharat VIP",
       "image": "https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -3694,8 +3544,6 @@
     {
       "name": "Zee TV HD",
       "image": "https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3720,8 +3568,6 @@
     {
       "name": "Zee TV",
       "image": "https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3746,8 +3592,6 @@
     {
       "name": "Zee Anmol",
       "image": "https://images.toffeelive.com/images/program/4567/logo/240x240/mobile_logo_165498001675857326.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3772,8 +3616,6 @@
     {
       "name": "Zee Anmol Cinema",
       "image": "https://i.ibb.co/54fRv0P/z-anomal-cinema.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -3791,8 +3633,6 @@
     {
       "name": "Colors Rishtey",
       "image": "https://images.toffeelive.com/images/program/2436/logo/240x240/mobile_logo_637826001655891948.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -3817,8 +3657,6 @@
     {
       "name": "&TV HD",
       "image": "https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -3843,8 +3681,6 @@
     {
       "name": "& Pictures HD",
       "image": "https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -3869,8 +3705,6 @@
     {
       "name": "Nick Bangla",
       "image": "https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "yes",
       "country": "",
@@ -3888,8 +3722,6 @@
     {
       "name": "Cartoon Network Hindi HD",
       "image": "https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "yes",
       "country": "india",
@@ -3914,8 +3746,6 @@
     {
       "name": "Cartoon Network Hindi",
       "image": "https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "",
       "country": "india",
@@ -3940,8 +3770,6 @@
     {
       "name": "Sonic Hindi",
       "image": "https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "",
       "country": "india",
@@ -3966,8 +3794,6 @@
     {
       "name": "Discovery Kids Hindi",
       "image": "https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "",
       "country": "india",
@@ -3992,8 +3818,6 @@
     {
       "name": "Nick Jr",
       "image": "https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "",
       "country": "india",
@@ -4011,8 +3835,6 @@
     {
       "name": "Pogo Hindi",
       "image": "https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "",
       "country": "india",
@@ -4037,8 +3859,6 @@
     {
       "name": "Movie Bangla VIP",
       "image": "https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "bd",
@@ -4056,8 +3876,6 @@
     {
       "name": "TOFFEE Movies VIP",
       "image": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4075,8 +3893,6 @@
     {
       "name": "Zee Cinema HD",
       "image": "https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -4127,8 +3943,6 @@
     {
       "name": "Zee Action",
       "image": "https://images.toffeelive.com/images/program/355/logo/240x240/mobile_logo_569572001655891220.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -4153,8 +3967,6 @@
     {
       "name": "Zee Bollywood",
       "image": "https://images.toffeelive.com/images/program/400/logo/240x240/mobile_logo_624780001655891361.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -4179,8 +3991,6 @@
     {
       "name": "I Film English",
       "image": "https://images.toffeelive.com/images/program/18098/logo/240x240/mobile_logo_508084001673240324.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4198,8 +4008,6 @@
     {
       "name": "Lotus Macau",
       "image": "https://images.toffeelive.com/images/program/389/logo/240x240/mobile_logo_466667001673185088.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4217,8 +4025,6 @@
     {
       "name": "Quran TV",
       "image": "https://images.toffeelive.com/images/program/613/logo/240x240/mobile_logo_192652001655891524.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4236,8 +4042,6 @@
     {
       "name": "Sunnah TV",
       "image": "https://images.toffeelive.com/images/program/610/logo/240x240/mobile_logo_677105001655891492.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4255,8 +4059,6 @@
     {
       "name": "AL Jazeera",
       "image": "https://images.toffeelive.com/images/program/234/logo/240x240/mobile_logo_496491001655891051.png",
-      "host1": "",
-      "server1": "",
       "category": "news",
       "hot": "",
       "country": "qatar",
@@ -4274,8 +4076,6 @@
     {
       "name": "CNN VIP",
       "image": "https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_373682001676354236.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4293,8 +4093,6 @@
     {
       "name": "DW",
       "image": "https://images.toffeelive.com/images/program/363/logo/240x240/mobile_logo_700739001655891233.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4340,8 +4138,6 @@
     {
       "name": "RTR Planeta",
       "image": "https://images.toffeelive.com/images/program/662/logo/240x240/mobile_logo_851160001655891584.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4359,8 +4155,6 @@
     {
       "name": "Euro News VIP",
       "image": "https://images.toffeelive.com/images/program/655/logo/240x240/mobile_logo_455321001655891572.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4378,8 +4172,6 @@
     {
       "name": "Arirang TV",
       "image": "https://images.toffeelive.com/images/program/372/logo/240x240/mobile_logo_311458001655891246.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4397,8 +4189,6 @@
     {
       "name": "CGTN",
       "image": "https://images.toffeelive.com/images/program/668/logo/240x240/mobile_logo_867839001655891607.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4416,8 +4206,6 @@
     {
       "name": "Channel News Asia",
       "image": "https://images.toffeelive.com/images/program/393/logo/240x240/mobile_logo_435300001673184707.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4435,8 +4223,6 @@
     {
       "name": "Zee Business VIP",
       "image": "https://images.toffeelive.com/images/program/4569/logo/240x240/mobile_logo_422385001655892034.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4454,8 +4240,6 @@
     {
       "name": "KBS World 24",
       "image": "https://images.toffeelive.com/images/program/18099/logo/240x240/mobile_logo_684353001673241863.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4473,8 +4257,6 @@
     {
       "name": "TV5Monde",
       "image": "https://images.toffeelive.com/images/program/407/logo/240x240/mobile_logo_448662001655891393.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4492,8 +4274,6 @@
     {
       "name": "Aljazeera Arabic",
       "image": "https://images.toffeelive.com/images/program/658/logo/240x240/mobile_logo_982797001673184503.png",
-      "host1": "",
-      "server1": "",
       "category": "news",
       "hot": "",
       "country": "qatar",
@@ -4511,8 +4291,6 @@
     {
       "name": "NHK World-Japan",
       "image": "https://images.toffeelive.com/images/program/384/logo/240x240/mobile_logo_258111001655891294.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4530,8 +4308,6 @@
     {
       "name": "France24",
       "image": "https://images.toffeelive.com/images/program/1768/logo/240x240/mobile_logo_079930001673184899.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4549,8 +4325,6 @@
     {
       "name": "RT",
       "image": "https://images.toffeelive.com/images/program/416/logo/240x240/mobile_logo_974196001691566060.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4568,8 +4342,6 @@
     {
       "name": "TRT World",
       "image": "https://images.toffeelive.com/images/program/131546/logo/240x240/mobile_logo_021540001691566120.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4587,8 +4359,6 @@
     {
       "name": "ZOOM",
       "image": "https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png",
-      "host1": "",
-      "server1": "",
       "category": "music",
       "hot": "",
       "country": "india",
@@ -4639,8 +4409,6 @@
     {
       "name": "MTV Beats HD",
       "image": "https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4658,8 +4426,6 @@
     {
       "name": "Movie Bangla Music",
       "image": "https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4677,8 +4443,6 @@
     {
       "name": "MTV India",
       "image": "https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4724,8 +4488,6 @@
     {
       "name": "Zing",
       "image": "https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png",
-      "host1": "",
-      "server1": "",
       "category": "music",
       "hot": "",
       "country": "india",
@@ -4750,8 +4512,6 @@
     {
       "name": "VH1 HD",
       "image": "https://images.toffeelive.com/images/program/2433/logo/240x240/mobile_logo_609993001655891894.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4769,8 +4529,6 @@
     {
       "name": "TLC HD",
       "image": "https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "",
@@ -4788,8 +4546,6 @@
     {
       "name": "TLC",
       "image": "https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "india",
@@ -4840,8 +4596,6 @@
     {
       "name": "Tech Storm VIP",
       "image": "https://images.toffeelive.com/images/program/4786/logo/240x240/mobile_logo_570626001655892054.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4859,8 +4613,6 @@
     {
       "name": "Zee Café HD",
       "image": "https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4878,8 +4630,6 @@
     {
       "name": "Infinity HD",
       "image": "https://images.toffeelive.com/images/program/2428/logo/240x240/mobile_logo_455256001655891827.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4897,8 +4647,6 @@
     {
       "name": "Comedy Central HD",
       "image": "https://images.toffeelive.com/images/program/2427/logo/240x240/mobile_logo_461931001655891802.png",
-      "host1": "",
-      "server1": "",
       "category": "toffee",
       "hot": "",
       "country": "",
@@ -4916,8 +4664,6 @@
     {
       "name": "Goldmines Movies",
       "image": "https://i.ibb.co/TgfW9WD/goldmovies-185x278.webp",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -4935,8 +4681,6 @@
     {
       "name": "Goldmines Bollywood",
       "image": "https://i.ibb.co/2gWQpFy/goldmins-bollywod.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -4954,8 +4698,6 @@
     {
       "name": "Colors Cineplex HD",
       "image": "https://i.ibb.co/yhpfQwT/colors-cineplex.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -4973,8 +4715,6 @@
     {
       "name": "Colors Cineplex B",
       "image": "https://i.ibb.co/1bXdXSp/colors-cineplex-b.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -4992,8 +4732,6 @@
     {
       "name": "DD National",
       "image": "https://i.ibb.co/dD4DrwQ/dd-national.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5011,8 +4749,6 @@
     {
       "name": "Show Box",
       "image": "https://i.ibb.co/166CqqJ/showbox.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5030,8 +4766,6 @@
     {
       "name": "Manoranjan Tv",
       "image": "https://i.ibb.co/CJjZBMJ/manarangan-tv.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5049,8 +4783,6 @@
     {
       "name": "Gubbare",
       "image": "https://i.ibb.co/1LFW2nj/gubbra-tv-hindi.png",
-      "host1": "",
-      "server1": "",
       "category": "kids",
       "hot": "",
       "country": "india",
@@ -5068,8 +4800,6 @@
     {
       "name": "Ishara TV",
       "image": "https://i.ibb.co/fMhsXrX/Ishara-TV.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5087,8 +4817,6 @@
     {
       "name": "WOW Cinema One",
       "image": "https://i.ibb.co/rHzKS5z/wowcinema.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5106,8 +4834,6 @@
     {
       "name": "Maha Movie",
       "image": "https://i.ibb.co/Qjwgjw4/maha-movie.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5125,8 +4851,6 @@
     {
       "name": "Animal Planet Hindi",
       "image": "https://i.ibb.co/N9ZzRqC/animal-planet.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "india",
@@ -5144,8 +4868,6 @@
     {
       "name": "Joo Music",
       "image": "https://i.ibb.co/ysQd437/joo-music.png",
-      "host1": "",
-      "server1": "",
       "category": "music",
       "hot": "",
       "country": "india",
@@ -5163,8 +4885,6 @@
     {
       "name": "Nazara TV",
       "image": "https://i.ibb.co/H45yDbh/nazra-tv.webp",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5182,8 +4902,6 @@
     {
       "name": "Epic",
       "image": "https://i.ibb.co/4P2Tm0Z/epic.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5201,8 +4919,6 @@
     {
       "name": "9X Music",
       "image": "https://i.ibb.co/Tkqs0xQ/9xm-music.png",
-      "host1": "",
-      "server1": "",
       "category": "music",
       "hot": "",
       "country": "india",
@@ -5220,8 +4936,6 @@
     {
       "name": "Mastiiii",
       "image": "https://i.ibb.co/njmZWVT/masti-tv.png",
-      "host1": "",
-      "server1": "",
       "category": "music",
       "hot": "",
       "country": "india",
@@ -5239,8 +4953,6 @@
     {
       "name": "Dangal",
       "image": "https://i.ibb.co/JxDhWBb/dangal1.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5258,8 +4970,6 @@
     {
       "name": "Dangal 2",
       "image": "https://i.ibb.co/LrZQ1rP/dangal2.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5270,8 +4980,6 @@
     {
       "name": "Bollywood Classic HD",
       "image": "https://i.ibb.co/MfFmZGM/bollywod-clasic.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5289,8 +4997,6 @@
     {
       "name": "The Temptation Channel",
       "image": "https://watchmhdtv.com/wp-content/uploads/2023/11/tempta.webp",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5308,8 +5014,6 @@
     {
       "name": "Bigg Boss 24HRS Live",
       "image": "https://i.ibb.co/q5Tcfqf/bigboss24.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5327,8 +5031,6 @@
     {
       "name": "The Q India",
       "image": "https://i.ibb.co/xfX4ZsV/q-tv.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5346,8 +5048,6 @@
     {
       "name": "Food Food",
       "image": "https://i.ibb.co/rfxj7pS/food-food.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5365,8 +5065,6 @@
     {
       "name": "Zee Salaam",
       "image": "https://i.ibb.co/ngp5gKq/zee-salam.png",
-      "host1": "",
-      "server1": "",
       "category": "entertainment",
       "hot": "",
       "country": "india",
@@ -5384,8 +5082,6 @@
     {
       "name": "Investigation Discovery",
       "image": "https://i.ibb.co/rHZYK3h/investication-discovery.png",
-      "host1": "",
-      "server1": "",
       "category": "doc",
       "hot": "",
       "country": "india",
@@ -5403,8 +5099,6 @@
     {
       "name": "Shemaroo Umang",
       "image": "https://i.ibb.co/KxVXK1R/shemaro-omag.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5422,8 +5116,6 @@
     {
       "name": "Shemaroo TV",
       "image": "https://i.ibb.co/9hq6M3v/shemaro-tv.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5441,8 +5133,6 @@
     {
       "name": "Bollywood Prime",
       "image": "https://i.ibb.co/XxRfZqm/bollywod-prime.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
@@ -5460,8 +5150,6 @@
     {
       "name": "Bollywood HD",
       "image": "https://i.ibb.co/TPFK83K/bollywodhd.png",
-      "host1": "",
-      "server1": "",
       "category": "movie",
       "hot": "",
       "country": "india",
