@@ -105,8 +105,6 @@
     {
       "name": "T SPORTS",
       "image": "https://i.ibb.co/c8GdZqn/t-sports.png",
-      "host1": "https://watchmhdtv.com/",
-      "server1": "https://entezeetv.fun/ayna/play.php?id=28",
       "host2": "https://watchmhdtv.com/",
       "server2": "https://entezeetv.fun/ayna/play.php?id=27",
       "category": "Sports",
@@ -129,6 +127,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=28",
           "referer": "https://watchmhdtv.com/",
           "video": ""
+        },
+        {
+          "name": "WEB",
+          "type": "W",
+          "host1": "https://watchmhdtv.com/",
+          "server1": "https://entezeetv.fun/ayna/play.php?id=28"
         }
       ]
     },
