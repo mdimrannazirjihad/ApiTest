@@ -165,8 +165,8 @@
         {
           "name": "WEB TV",
           "type": "W",
-          "host1": "https://tv.durbinlive.com/",
-          "server1": "https://tv.durbinlive.com/api/gtv.php"
+          "host": "https://tv.durbinlive.com/",
+          "server": "https://tv.durbinlive.com/api/gtv.php"
         }
       ]
     },
