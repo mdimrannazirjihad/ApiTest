@@ -1,4 +1,106 @@
 {
+  "cat": [
+    {
+      "name": "SPORTS",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/16/thumbnail/category_thumbnail_url_230828165800.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/16/icon/category_icon_230827100334.png",
+      "tag": "Sports"
+    },
+    {
+      "name": "Toffee",
+      "bigImage": "https://i.ibb.co/K75SGFS/toffe.jpg",
+      "shortImage": "https://i.ibb.co/zG11CsW/fdef.png",
+      "tag": "toffee"
+    },
+    {
+      "name": "Kids",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/14/thumbnail/category_thumbnail_url_220616132537.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/14/icon/category_icon_201128172428.png",
+      "tag": "kids"
+    },
+    {
+      "name": "Movies",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/1/thumbnail/category_thumbnail_url_220616131510.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/1/icon/category_icon_201128160651.png",
+      "tag": "movie"
+    },
+    {
+      "name": "Music",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/2/thumbnail/category_thumbnail_url_220616132555.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/2/icon/category_icon_201128161408.png",
+      "tag": "music"
+    },
+    {
+      "name": "Entertainment",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/9/thumbnail/category_thumbnail_url_220616131456.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/9/icon/category_icon_201128162249.png",
+      "tag": "entertainment"
+    },
+    {
+      "name": "News",
+      "bigImage": "https://i.ibb.co/dGzXNmN/news.jpg",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/4/icon/category_icon_201128162106.png",
+      "tag": "news"
+    },
+    {
+      "name": "Documentary",
+      "bigImage": "https://images.toffeelive.com/images/ugc/category/4/thumbnail/category_thumbnail_url_220616132732.png",
+      "shortImage": "https://images.toffeelive.com/images/ugc/category/4/icon/category_icon_201128162106.png",
+      "tag": "doc"
+    }
+  ],
+  "con": [
+    {
+      "name": "Bangladesh",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/320px-Flag_of_Bangladesh.svg.png",
+      "tag": "bd"
+    },
+    {
+      "name": "India",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+      "tag": "india"
+    },
+    {
+      "name": "Qatar",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/320px-Flag_of_Qatar.svg.png",
+      "tag": "qatar"
+    },
+    {
+      "name": "France",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png",
+      "tag": "france"
+    },
+    {
+      "name": "United States",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png",
+      "tag": "us"
+    },
+    {
+      "name": "Pakistan",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/320px-Flag_of_Pakistan.svg.png",
+      "tag": "pk"
+    },
+    {
+      "name": "Arabia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/320px-Flag_of_Saudi_Arabia.svg.png",
+      "tag": "ar"
+    },
+    {
+      "name": "Telugu",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+      "tag": "telugu"
+    },
+    {
+      "name": "Gujarati",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+      "tag": "gujarati"
+    },
+    {
+      "name": "Tamil",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+      "tag": "tamil"
+    }
+  ],
   "all": [
     {
       "name": "T SPORTS",
