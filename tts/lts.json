@@ -139,8 +139,6 @@
     {
       "name": "GTV",
       "image": "https://i.ibb.co/q95SCks/gtv.png",
-      "host1": "https://tv.durbinlive.com/",
-      "server1": "https://tv.durbinlive.com/api/gtv.php",
       "host2": "https://watchmhdtv.com/",
       "server2": "https://entezeetv.fun/ayna/play.php?id=18",
       "category": "Sports",
@@ -163,6 +161,12 @@
           "source": "https://entezeetv.fun/ayna/play.php?id=18",
           "referer": "https://watchmhdtv.com/",
           "video": ""
+        },
+        {
+          "name": "WEB TV",
+          "type": "W",
+          "host1": "https://tv.durbinlive.com/",
+          "server1": "https://tv.durbinlive.com/api/gtv.php"
         }
       ]
     },
