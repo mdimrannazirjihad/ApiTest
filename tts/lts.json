@@ -131,8 +131,8 @@
         {
           "name": "WEB",
           "type": "W",
-          "host1": "https://watchmhdtv.com/",
-          "server1": "https://entezeetv.fun/ayna/play.php?id=28"
+          "host": "https://watchmhdtv.com/",
+          "server": "https://entezeetv.fun/ayna/play.php?id=28"
         }
       ]
     },
