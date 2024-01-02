@@ -3000,8 +3000,7 @@
         {
           "name": "Fixed Hindi",
           "type": "V",
-          "referer": "https://rds.live/",
-          "video": "https://play.stirilepe.net/disneychannelsd/video.m3u8"
+          "video": "https://play.stirilepe.net/disneychannelsd/video.m3u8|referer=https://rds.live/"
         }
       ]
     },
@@ -5480,9 +5479,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "cookie": "https://mhdtvplay.net/",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=187",
-          "referer": ""
+          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=187|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
