@@ -113,12 +113,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=27|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=27|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=28|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=28|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -145,12 +145,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=19|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=19|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=18|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=18|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -267,7 +267,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=48|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=48|referer=https://mhdtvplay.net/"
         }
       ]
     },
@@ -282,7 +282,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=49|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=49|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -318,7 +318,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=42|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=42|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -344,7 +344,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=43|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=43|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -414,7 +414,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=113|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=113|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -446,7 +446,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=118|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=118|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -472,7 +472,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=119|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=119|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -663,7 +663,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=115|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=115|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -684,7 +684,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=116|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=116|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -705,7 +705,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=117|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=117|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -726,7 +726,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=120|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=120|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -747,7 +747,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=121|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=121|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -1391,7 +1391,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=46|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=46|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -1412,7 +1412,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=107|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=107|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -1433,7 +1433,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=114|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=114|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -1454,7 +1454,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=68|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=68|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -1475,7 +1475,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=51|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=51|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -1496,7 +1496,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=47|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=47|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -1544,7 +1544,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=45|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=45|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -1586,7 +1586,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=218|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=218|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Video",
@@ -1895,7 +1895,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=108|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=108|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2246,12 +2246,12 @@
         {
           "name": "Ayna 1 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=76|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=76|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=84|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=84|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2300,12 +2300,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=92|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=92|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=88|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=88|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2354,12 +2354,12 @@
         {
           "name": "Ayna 1 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=79|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=79|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=85|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=85|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2413,12 +2413,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=91|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=91|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=83|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=83|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2467,12 +2467,12 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=90|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=90|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=71|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=71|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2510,7 +2510,7 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=82|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=82|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2553,12 +2553,12 @@
         {
           "name": "Ayna 1 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=73|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=73|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=81|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=81|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1 SD",
@@ -2595,12 +2595,12 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=80|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=80|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=77|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=77|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1 SD",
@@ -2632,7 +2632,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=78|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=78|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2664,7 +2664,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=87|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=87|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2706,7 +2706,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=112|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=112|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2727,7 +2727,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=111|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=111|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2758,12 +2758,12 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=72|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=72|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 1 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=75|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=75|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2806,12 +2806,12 @@
         {
           "name": "Ayna 1 SD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=89|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=89|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2 HD",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=74|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=74|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1 SD",
@@ -2843,7 +2843,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=86|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=86|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2875,7 +2875,7 @@
         {
           "name": "Ayna 1 Bangla",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=70|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=70|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1 Bangla",
@@ -2916,7 +2916,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=157|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=157|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -2995,7 +2995,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=179|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=179|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3016,7 +3016,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=162|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=162|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3037,7 +3037,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=66|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=66|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3058,7 +3058,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=224|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=224|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3079,7 +3079,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=228|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=228|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3100,7 +3100,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=110|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=110|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3136,7 +3136,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=55|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=55|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3237,7 +3237,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=226|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=226|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3268,7 +3268,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=54|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=54|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3329,7 +3329,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=53|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=53|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3365,7 +3365,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=56|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=56|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3455,12 +3455,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=94|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=94|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=104|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=104|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3539,7 +3539,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=17|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=17|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3560,7 +3560,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=182|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=182|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3581,7 +3581,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=182|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=182|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3607,7 +3607,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=21|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=21|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3633,7 +3633,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=26|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=26|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3659,7 +3659,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=23|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=23|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3685,7 +3685,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=5|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=5|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3711,7 +3711,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=1|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=1|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3737,7 +3737,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=6|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=6|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3763,7 +3763,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=14|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=14|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3789,7 +3789,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=9|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=9|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3836,7 +3836,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=30|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=30|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3862,7 +3862,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=7|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=7|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3888,7 +3888,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=12|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=12|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3914,7 +3914,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=10|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=10|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3940,7 +3940,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=29|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=29|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3961,7 +3961,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=40|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=40|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -3987,7 +3987,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=31|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=31|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4013,7 +4013,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=16|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=16|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4039,7 +4039,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=4|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=4|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4065,7 +4065,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=2|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=2|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4091,7 +4091,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=13|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=13|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4117,7 +4117,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=20|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=20|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4143,7 +4143,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=8|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=8|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4169,7 +4169,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=15|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=15|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4190,7 +4190,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=11|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=11|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4216,7 +4216,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=3|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=3|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4237,7 +4237,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=144|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=144|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4268,7 +4268,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=220|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=220|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4314,7 +4314,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=105|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=105|referer=https://mhdtvplay.net/"
         }
       ]
     },
@@ -4345,7 +4345,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=106|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=106|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 2",
@@ -4366,7 +4366,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=135|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=135|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4413,7 +4413,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=38|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=38|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4484,7 +4484,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=32|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=32|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4510,7 +4510,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=25|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=25|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4531,7 +4531,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=22|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=22|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4557,7 +4557,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=33|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=33|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4583,7 +4583,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=34|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=34|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4619,7 +4619,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=37|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=37|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4640,7 +4640,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=36|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=36|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4661,7 +4661,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=35|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=35|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4714,7 +4714,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=185|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=185|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4750,7 +4750,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=136|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=136|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4771,7 +4771,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=140|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=140|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -4937,7 +4937,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=24|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=24|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5063,7 +5063,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=95|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=95|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5149,7 +5149,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=102|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=102|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5180,7 +5180,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=93|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=93|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5221,7 +5221,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=65|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=65|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5252,7 +5252,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=52|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=52|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5354,7 +5354,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=103|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=103|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5380,7 +5380,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=187|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=187|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5411,7 +5411,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=109|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=109|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5442,7 +5442,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=101|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=101|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5528,7 +5528,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=59|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=59|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5554,7 +5554,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=63|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=63|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5595,7 +5595,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=100|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=100|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5846,7 +5846,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=39|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=39|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5952,7 +5952,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=50|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=50|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -5978,7 +5978,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=50|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=50|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6015,7 +6015,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=99|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=99|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6066,7 +6066,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=57|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=57|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6092,7 +6092,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=44|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=44|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6133,7 +6133,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=96|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=96|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6184,7 +6184,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=154|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=154|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6205,12 +6205,12 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=156|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=156|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 2",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=122|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=122|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6231,7 +6231,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=155|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=155|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6252,7 +6252,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=163|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=163|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6273,7 +6273,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=153|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=153|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6294,7 +6294,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=149|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=149|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6315,7 +6315,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=90|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=90|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6336,7 +6336,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=191|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=191|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6357,7 +6357,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=188|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=188|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6378,7 +6378,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=150|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=150|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6399,7 +6399,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=152|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=152|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6420,7 +6420,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=151|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=151|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6441,7 +6441,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=69|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=69|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6462,7 +6462,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=221|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=221|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6483,7 +6483,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=222|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=222|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6504,7 +6504,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=225|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=225|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6525,7 +6525,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=138|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=138|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6546,7 +6546,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=164|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=164|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6632,7 +6632,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=169|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=169|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6653,7 +6653,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=143|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=143|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6749,7 +6749,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=128|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=128|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6820,7 +6820,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=140|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=140|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6841,7 +6841,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=125|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=125|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6862,7 +6862,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=134|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=134|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6883,7 +6883,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=147|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=147|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6904,7 +6904,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=217|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=217|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6925,7 +6925,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=183|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=183|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6961,7 +6961,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=123|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=123|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -6982,7 +6982,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=175|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=175|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7003,7 +7003,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=227|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=227|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7024,7 +7024,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=137|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=137|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7065,7 +7065,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=167|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=167|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7101,7 +7101,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=230|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=230|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7122,7 +7122,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=229|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=229|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7143,7 +7143,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=198|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=198|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7199,7 +7199,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=158|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=158|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7225,7 +7225,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=194|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=194|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7246,7 +7246,7 @@
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=131|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=131|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7282,12 +7282,12 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "getLink:https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-umang|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-umang|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=180|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=180|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
@@ -7308,12 +7308,12 @@
         {
           "name": "Video",
           "type": "V",
-          "video": "getLink:https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-tv|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://cdn-tv.co.in/shemaroo/player.php?watch=shemaroo-tv|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Ayna 1",
           "type": "V",
-          "video": "getLink:https://entezeetv.fun/ayna/play.php?id=174|referer=https://mhdtvplay.net/"
+          "video": "getFile:https://entezeetv.fun/ayna/play.php?id=174|referer=https://mhdtvplay.net/"
         },
         {
           "name": "Web 1",
